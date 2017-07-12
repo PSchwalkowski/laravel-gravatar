@@ -1,0 +1,11 @@
+{
+    "name": "ps/gravatar",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Paweł Schwałkowski",
+            "email": "p.schwalkowski@gmail.com"
+        }
+    ],
+    "require": {}
+}
