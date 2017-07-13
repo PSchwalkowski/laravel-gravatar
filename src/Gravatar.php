@@ -1,6 +1,6 @@
 <?php 
 
-namespace PS\Gravatar;
+namespace PS;
 
 class Gravatar {
 	
